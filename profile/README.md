@@ -10,7 +10,7 @@ Currently, heres our staff!:
  - **vika_** - *Beta tester!* She *doesn't* have a **GitHub profile**, sadly :(
  - **gg6andpen** - *Beta tester and Artist!* He *doesn't* have a **GitHub profile** also :(
  - **bananys_34** - *Beta tester!* He *doesn't* have a **GitHub profile** ;(
- - **pickle** - *Beta tester!* He *doesn't* have a **GitHub profile**, *why* do **all of us**, expect **TheDreamingCat** have **no** *GitHub* profiles???
+ - **pickle** - *Beta tester!* He *doesn't* have a **GitHub profile**, *why* do **all of us**, except **TheDreamingCat** have **no** *GitHub* profiles???
  - **zabivnoi_pyps** - *Beta tester and Artist!* He *doesn't* have a **GitHub profile**... D;
 ## Our morals
 *We* as a **team**, *LOVE Open-Source software*, and **want** more *things* to be ***open-source***! So, that's why every **project** of our ***studio*** has *source code availible*!
